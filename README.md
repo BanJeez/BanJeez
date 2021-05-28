@@ -50,4 +50,6 @@ Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Pro
 ![Anurag's GitHub stats](https://github-readme-stats-tan-omega.vercel.app/api?username=BanJeez&show_icons=true&theme=dark)
 
 
+<a href="wwww.Google.com">Banji CV/a>
+
 
