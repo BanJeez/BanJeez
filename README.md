@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Banji 👋
+I'm a self-taught Coder based in United Kingdom.
 
 <!--
 **BanJeez/BanJeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+Talking about Personal Stuffs:
+
+- 👨🏽‍💻 I recently enrolled on aws re/start coures at techtalent.
+- ⏳ I am constantly learning and keep myself updated with the latest technologies.
+- 🌱 I’m currently working on websockets for a flutter APP.
+- 🤔 My interests are Data Science, web development and  the Clould .
+- 💬 Ask me about anything, I am happy to help.
+
+- 📝 See my Resume to get more info.
 
 ---
 
